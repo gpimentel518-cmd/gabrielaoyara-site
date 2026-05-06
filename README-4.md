@@ -62,7 +62,7 @@ Não é necessário servidor — basta abrir o arquivo no navegador:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU-USUARIO/gabrielaoyara-site.git
+git clone (https://github.com/gpimentel518-cmd/gabrielaoyara-site)
 
 # Abra no navegador
 # Clique duas vezes em index.html
